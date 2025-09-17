@@ -32,10 +32,12 @@ Hide - 2 AP if you are out of the enemy's line of sight you can use this to gain
 
 Interact with an object - 1 AP.
 
-Disengage - 2 AP.
+Disengage - 2 AP you can safely leave enemy control range, move up to 3m.
 
 # Reactions:
 
 Block - 2 AP if enemy successfully trows attack roll, then you can use this reaction to begin strength contest. If you win then you block all incoming damage, if it's a draw then incoming damage is halved. You can block only physical attacks made with melee weapons.
 
 Dodge - 3 AP + req. 14 AGL
+
+Attack of opportunity - you can attack enemy with melee weapon, when [[Kargaktar/Double Minus/Core Rules/Gameplay/Fighting/Control Range\|requirements]] are meet.
