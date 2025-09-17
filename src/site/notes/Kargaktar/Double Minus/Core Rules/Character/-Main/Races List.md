@@ -6,7 +6,7 @@
 # [[Kargaktar/Double Minus/Races/Middle Earthers (Human)\|Middle Earthers (Human)]] 
 
 # [[Kargaktar/Double Minus/Races/Northern Folk (Human)\|Northern Folk (Human)]]
-# [[Kargaktar/Double Minus/Races/High Elfs\|High Elfs]] 
+# [[Kargaktar/Double Minus/Races/High Elves\|High Elves]] 
 
 # [[Kargaktar/Double Minus/Races/Elves of the Woods\|Elves of the Woods]]
 
