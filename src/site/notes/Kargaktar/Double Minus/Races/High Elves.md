@@ -12,7 +12,7 @@ High Elves are renowned for their ethereal and regal appearance. They are tall a
 **Racial Traits:**
 Elven eyes - you can see even the smallest details from up to two kilometers. 
 
-Born warriors - you have +2 ATK to melee weapons and all actions while in combat cost you -1 AP (minimum 1 AP).
+Born warriors - you have +2 ATK to melee weapons and all actions while in active combat cost you -1 AP (minimum 1 AP).
 
 Age: ~2000
 

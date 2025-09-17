@@ -24,6 +24,10 @@ Attack / Spell Casting - that depends but default is 3 AP .
 
 Move 10m - first movement action is free on your turn, next cost 1 AP per 10 ft.
 
+Climb 5m - 1 AP.
+
+Drop - 1 AP you need to complete Agility saving throw with is determine from witch height you drop, for each meter you drop save gets harder by 6, starting on 1m is 2 AGL. If you fail saving throw you get 1d4 damage for each 2m you fall.
+
 Dash 5m - 1 AP + req. 12 AGL (if you moved only using dash on next tour all creatures have disadvantage on attack rolls against you).
 
 Prepare - 4 AP give you for next round additional 2 AP (nonstackable).

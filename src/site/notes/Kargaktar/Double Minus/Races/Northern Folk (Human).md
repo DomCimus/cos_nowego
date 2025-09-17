@@ -10,7 +10,7 @@ Known for their skill in shipbuilding and navigation, they traveled widely acros
 They were often tall and muscular, with fair skin, light-colored eyes (often blue or gray), and hair that ranged from blond to red. Men commonly wore their hair long, sometimes braided, with full beards that varied in style from braided to wild and unkempt. North Folk clothing was practical yet durable, typically made of wool, leather, and fur, layered to keep them warm. They often wore iron or bronze arm rings, amulets, and other simple jewelry as symbols of status, and many bore tattoos or war paint for intimidation in battle.
 
 **Racial Traits:**
-Natural strength - you get +2 to STR.
+Natural strength - you get +3 to STR.
 
 Talented craftsmen - you can choose one sill related to making things, and be Advanced in it.
 
