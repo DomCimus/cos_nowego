@@ -4,19 +4,9 @@
 
 Action Points (PA) - these are points that determine how much your character can do during their turn. PA always on start of round go back to your default number, if not stated other wise. The amount of AP you have is determined by the [[Kargaktar/Double Minus/Core Rules/Character/-Main/Ability Scores\|Agility]] statistic, and here's the Agility to AP conversion rate:
 
-2 - 0
-4 - 1
-6 - 2
-8 - 3
-10 - 4
-12 - 5
-14 - 6
-16 - 7
-18 - 8
-20 - 9
-22 - 10
-24 - 11
-26 - 12
+| AGL | 2   | 4   | 6   | 8   | 10  | 12  | 14  | 16  | 18  | 20  | 22  | 24  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| AP  | 0   | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  |
 
 # Actions:
 
