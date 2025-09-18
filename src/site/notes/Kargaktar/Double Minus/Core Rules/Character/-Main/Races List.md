@@ -10,7 +10,7 @@
 
 # [[Kargaktar/Double Minus/Races/Elves of the Woods\|Elves of the Woods]]
 
-# [[Kargaktar/Double Minus/Races/Lizardman\|Lizardman]] (not playable yet)
+# [[Kargaktar/Double Minus/Races/Lizardman\|Lizardman]] 
 # [[Dwarf\|Dwarf]] (not playable yet)
 
 # [[Gnome\|Gnome]] (not playable yet)
