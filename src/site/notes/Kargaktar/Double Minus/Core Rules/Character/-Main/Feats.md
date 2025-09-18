@@ -35,3 +35,5 @@
 **Poisoner** (2) - now you are expert with "Poison Making" skill, and when you do poison damage to enemy, then you deal extra 1d4 damage.
 
 **Inspiring Leader** (1) (CHA 13)- You can spend few minutes inspiring your companions. When you do so, all allays who head you gain advantage on roll of their choosing, creature can't gain this buff again until they finished a rest.
+
+**Self Taught** (1) - you get 2 SPP, and now you know one language of you choosing.

@@ -4,7 +4,7 @@
 
 Skills proficiency - is how good your character is whit skill.
 
-Proficiency Skill Points (SPP) - there are used to improve your skill proficiency with certain skill, you can get those points by [[Kargaktar/Double Minus/Core Rules/Character Develepment\|leveling]].
+Proficiency Skill Points (SPP) - there are used to improve your skill proficiency with certain skill, you can get those points by [[Kargaktar/Double Minus/Core Rules/Character/-Main/Character Develepment\|leveling]].
 
 Levels of skill proficiency:
 

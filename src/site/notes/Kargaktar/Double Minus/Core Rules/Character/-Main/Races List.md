@@ -10,6 +10,7 @@
 
 # [[Kargaktar/Double Minus/Races/Elves of the Woods\|Elves of the Woods]]
 
+# [[Kargaktar/Double Minus/Races/Lizardman\|Lizardman]] (not playable yet)
 # [[Dwarf\|Dwarf]] (not playable yet)
 
 # [[Gnome\|Gnome]] (not playable yet)
@@ -66,8 +67,6 @@
 # [[Troglodyte\|Troglodyte]] (not playable yet)
 
 # [[Medusa\|Medusa]] (not playable yet)
-
-# [[Lizardman\|Lizardman]] (not playable yet)
 
 # [[Pixie\|Pixie]] (not playable yet)
 

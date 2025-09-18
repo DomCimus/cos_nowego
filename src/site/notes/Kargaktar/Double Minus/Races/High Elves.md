@@ -10,9 +10,9 @@ High Elves are noble and graceful people known for their extraordinary beauty an
 High Elves are renowned for their ethereal and regal appearance. They are tall and slender, with an air of elegance in every movement. Their skin is often fair, radiant, or subtly luminous, with some having golden or silvery undertones. High Elves typically have long, flowing hair in shades of gold, silver, platinum, or occasionally deep black, always impeccably kept. Their eyes are large and almond-shaped, glowing with hues of blue, green, violet, or even gold, often shimmering faintly with innate magical energy. Their features are symmetrical and refined, with high cheekbones, delicately pointed ears, and graceful expressions. High Elves favor intricate and flowing attire made of fine fabrics, often adorned with subtle embroidery or gemstones that reflect their sophisticated culture. 
 
 **Racial Traits:**
-Elven eyes - you can see even the smallest details from up to two kilometers. 
+Elven eyes - can see even the smallest details from up to two kilometers. 
 
-Born warriors - you have +2 ATK to melee weapons and all actions while in active combat cost you -1 AP (minimum 1 AP).
+Born warriors - have +2 ATK to melee weapons and all actions while in active combat cost you -1 AP (minimum 1 AP).
 
 Age: ~2000
 

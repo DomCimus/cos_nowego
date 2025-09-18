@@ -10,7 +10,7 @@ Humans are a versatile race that thrives in nearly every environment. Known for 
 Never seen human?
 
 **Racial Traits:**
-Quick learners - you get extra 2 LP and 2 SSP.
+Quick learners - you get extra 2 LP and 4 SSP.
 
 Age: ~80
 

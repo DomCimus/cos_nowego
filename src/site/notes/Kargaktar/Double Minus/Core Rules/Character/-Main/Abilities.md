@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/kargaktar/double-minus/core-rules/character/main/abilities/"}
 ---
 
-Abilities are special skills, that make your character unique. In double minus you don't have classes, instead you have abilities that shape your character's role in game. All Abilities can be purchased with [[Kargaktar/Double Minus/Core Rules/Character Develepment\|LP]].
+Abilities are special skills, that make your character unique. In double minus you don't have classes, instead you have abilities that shape your character's role in game. All Abilities can be purchased with [[Kargaktar/Double Minus/Core Rules/Character/-Main/Character Develepment\|LP]].
 
 # 1 level 
 
